@@ -1,3 +1,3 @@
 # Formlarla Çalışmak
-https://iremuludirik.github.io/formlarla-calismak-bolum-sonu-egzersizi/
--Notlandırma
+https://iremuludirik.github.io/formlarla-calismak-notlandirma/
+- Notlandırma
