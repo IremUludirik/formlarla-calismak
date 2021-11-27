@@ -1,6 +1,6 @@
 # Formlarla Çalışmak
 
-https://iremuludirik.github.io/formlarla-calismak-notlandirma/
+https://iremuludirik.github.io/working-with-forms-grading-/
 
 - Isim girilir
 - Puan girilir
